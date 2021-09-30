@@ -7,11 +7,6 @@
  * To learn more, visit: https://css-tricks.com/reboot-resets-reasoning/
  *
 /* 
-made the scrolling smooth with css .............................
-*/
-html {
-    scroll-behavior: smooth;
-}
 
 /* ---- Base Rules ---- */
 #toNav {
